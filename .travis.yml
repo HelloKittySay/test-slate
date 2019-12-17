@@ -8,6 +8,8 @@ rvm:
 branches:
   only:
     - v1_kr
+    - v1_cn
+    - v1_en
 
 cache: bundler
 
